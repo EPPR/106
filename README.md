@@ -2,7 +2,7 @@
 
 ## Instrucciones:
 
-1. git clone https://github.com/eppr/106
+1. git clone https://github.com/eppr/106.git
 2. cd 106
 3. npm install
 4. node server.js
